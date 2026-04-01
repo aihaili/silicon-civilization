@@ -92,9 +92,8 @@
 
 ## 联系方式
 
-- **GitHub**：[github.com/username/silicon-civilization](https://github.com/username/silicon-civilization)
-- **Email**：your.email@example.com
-- **Discord**：YourDiscord#1234
+- **GitHub**：[github.com/aihaili/silicon-civilization](https://github.com/aihaili/silicon-civilization)
+- **Email**：xysr2004@foxmail.com
 
 ## 致谢
 
